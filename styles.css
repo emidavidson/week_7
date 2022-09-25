@@ -1,0 +1,68 @@
+
+body {
+    background-color:bisque;
+}
+
+h1 {
+    text-align: center;
+    color: sienna;
+}
+
+div { 
+    text-align: center;
+}
+
+a {
+    color:green;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    font-size: larger;
+    text-align: center;
+    color: sienna;
+}
+
+h4 {
+    text-align: center;
+    color: green;
+}
+
+div.container {
+    text-align: center;
+}
+
+ul.myUl {
+    border-style: dotted;
+    border-color: green;
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+    color: green;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+}
+
+h4 {
+
+    text-align: left;
+}
+
+div.tableBox {
+    padding-left: 700px;
+    text-align: left;
+}
+table {
+    color: sienna;
+}
+form{
+    text-align: center;
+    color: sienna;
+}
